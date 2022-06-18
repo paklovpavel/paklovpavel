@@ -1,5 +1,5 @@
 - 👋
-- I am a vulnerability hunter (C\C++).
+Vulnerability hunter (C\C++).
 
 <!---
 paklovpavel/paklovpavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
